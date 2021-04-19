@@ -1,0 +1,9 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+#reqField {
+    color: red;
+}
+.required {
+    color: red;
+}
